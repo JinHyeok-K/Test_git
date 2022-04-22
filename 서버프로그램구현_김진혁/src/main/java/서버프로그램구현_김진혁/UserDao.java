@@ -20,6 +20,7 @@ public class UserDao {
 		this.회원이름 = 회원이름;
 		this.회원이메일 = 회원이메일;
 	}
+	
 
 	public int get회원번호() {
 		return 회원번호;
